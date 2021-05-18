@@ -8,7 +8,7 @@ def sortRank(x):
                 x[i], x[j] = x[j], x[i]
 
 # read file
-f = open('/Users/jeje/Desktop/Homework2_1713201_석지혜/homework2_input_file_2.txt')
+f = open('file name')
 
 # R, N, S 추출 및 데이터 정리
 data = f.readline().split(', ')  # , 기준 split

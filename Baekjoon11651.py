@@ -41,7 +41,7 @@ def heapsort(list):
             root = c
 
 # read file
-f = open('/Users/jeje/Desktop/Homework2_1713201_석지혜/homework2_input_file_1.txt')
+f = open('file name')
 
 # 총 좌표의 개수
 N = int(f.readline())
